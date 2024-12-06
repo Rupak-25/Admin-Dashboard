@@ -24,7 +24,7 @@ Welcome to the React Admin Dashboard, where sleek design meets powerful function
 <h4>Follow these steps to embark on your journey:</h4>
 - Clone the repository:<br/>
 ✅ git clone https://github.com/Rupak-25/Admin-Dashboard.git<br/>
-✅ cd react-admin-dashboard<br/>
+✅ cd Admin-Dashboard<br/>
 
 
 <h1>Install the dependencies:</h1>
